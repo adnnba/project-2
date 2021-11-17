@@ -1,5 +1,6 @@
 import Button from "./components/Button"
 import PostItem from "./components/PostItem"
+import Example from "example"
 
 function App() {
   return (

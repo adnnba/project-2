@@ -6,6 +6,8 @@ function App() {
       <h1>Project 2</h1>
       <p>this is homepage</p>
       <Button />
+
+      <footer>2021 - copyright</footer>
     </>
   )
 }

@@ -10,7 +10,10 @@ function App() {
       <section>
         <p>This website is the best wallah</p>
         <PostItem />
+        <p>what's up</p>
       </section>
+
+      <footer>2021 - copyright</footer>
     </>
   )
 }
